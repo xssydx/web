@@ -1,0 +1,1 @@
+<?php exit;//a:8:{s:6:"lognum";i:9;s:8:"draftnum";i:2;s:6:"comnum";i:2;s:10:"comnum_all";i:2;s:5:"twnum";i:4;s:10:"hidecomnum";i:0;s:8:"checknum";i:0;i:1;a:5:{s:6:"lognum";i:9;s:8:"draftnum";i:2;s:10:"commentnum";i:2;s:14:"hidecommentnum";i:0;s:5:"twnum";i:4;}}

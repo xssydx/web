@@ -1,0 +1,1 @@
+<?php exit;//a:1:{i:0;a:3:{s:4:"link";s:18:"旺记时尚包铺";s:3:"url";s:25:"http://33best.taobao.com/";s:3:"des";s:0:"";}}

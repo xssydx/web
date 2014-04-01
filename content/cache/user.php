@@ -1,0 +1,1 @@
+<?php exit;//a:1:{i:1;a:8:{s:5:"photo";a:0:{}s:6:"avatar";s:0:"";s:9:"name_orig";s:6:"老徐";s:4:"name";s:6:"老徐";s:4:"mail";s:15:"bao0541@live.cn";s:3:"des";s:63:"为爱混迹于大广州，普通又平方的PHP搬砖工程师";s:7:"ischeck";s:1:"n";s:4:"role";s:5:"admin";}}

@@ -1,0 +1,14 @@
+<?php
+define('water_mark_image_path','/baoadmin/views/images/waterMark/');
+define('water_mark_big_image_name','cr1.png');
+define('water_mark_big_image_width','315');
+define('water_mark_big_image_height','51');
+define('water_mark_medium_image_name','cr2.png');
+define('water_mark_medium_image_width','315');
+define('water_mark_medium_image_height','51');
+define('water_mark_small_image_name','cr3.png');
+define('water_mark_small_image_width','315');
+define('water_mark_small_image_height','61');
+define('water_mark_place','log&kl_album');
+define('water_mark_position','4');
+?>

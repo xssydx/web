@@ -1,0 +1,8 @@
+[30-Mar-2014 16:56:34 UTC] PHP Warning:  Parameter 1 to add_water_mark_2image() expected to be a reference, value given in /home/bao0541/public_html/include/lib/function.base.php on line 277
+[31-Mar-2014 16:17:34 UTC] PHP Warning:  Parameter 1 to add_water_mark_2image() expected to be a reference, value given in /home/bao0541/public_html/include/lib/function.base.php on line 277
+[31-Mar-2014 16:18:32 UTC] PHP Warning:  imagecreatefromjpeg(../content/uploadfile/201403/thum-06d31396282654.jpg&quot; title=&quot;点击查看原图&quot; alt=&quot;Koala.jpg): failed to open stream: No such file or directory in /home/bao0541/public_html/content/plugins/cover/logCover.php on line 81
+[31-Mar-2014 16:18:32 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/bao0541/public_html/content/plugins/cover/logCover.php on line 24
+[31-Mar-2014 16:18:32 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/bao0541/public_html/content/plugins/cover/logCover.php on line 25
+[31-Mar-2014 16:18:32 UTC] PHP Warning:  Division by zero in /home/bao0541/public_html/content/plugins/cover/logCover.php on line 32
+[31-Mar-2014 16:18:32 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/bao0541/public_html/content/plugins/cover/logCover.php on line 43
+[31-Mar-2014 16:18:32 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/bao0541/public_html/content/plugins/cover/logCover.php on line 27

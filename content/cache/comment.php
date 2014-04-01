@@ -1,0 +1,1 @@
+<?php exit;//a:2:{i:0;a:7:{s:3:"cid";s:1:"2";s:3:"gid";s:1:"5";s:4:"name";s:6:"沙发";s:4:"date";s:10:"1396199160";s:4:"page";i:1;s:4:"mail";s:0:"";s:7:"content";s:9:"试试看";}i:1;a:7:{s:3:"cid";s:1:"1";s:3:"gid";s:1:"5";s:4:"name";s:6:"老徐";s:4:"date";s:10:"1396199115";s:4:"page";i:1;s:4:"mail";s:15:"bao0541@live.cn";s:7:"content";s:18:"可以评论吗？";}}
